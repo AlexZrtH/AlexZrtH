@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Alex Zarate
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning C and C#
-- 💞️ I’m looking to collaborate on indie games
+- 👋 Hi, I’m Alex Zarate.
+- 🎮 Game development.
+- 🌱 I’m currently learning C#.
+- 💞️ I’m looking to collaborate on indie games.
 - 📫 How to reach me azarate45@gmail.com
+- 🐉💀🔱🐙🎲⏳
